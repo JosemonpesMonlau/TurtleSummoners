@@ -16,6 +16,7 @@ Carpeta en la que se encuentra el proyecto desarrollado en la versión Unity 202
 7. **Unity.VisualScripting.Generated:** Es una forma gráfica de manipular los objetos y los comportamientos en Unity sin tener que escribir código desde cero. La lógica se construye conectando nodos visuales, lo que permite que artistas, diseñadores y programadores creen juegos y sistemas interactivos con facilidad.
 
 <h1>2. Ejecución del proyecto</h1>
+Link de descarga: https://monlaues-my.sharepoint.com/:u:/g/personal/alvarojurcan_campus_monlau_com/EfXriARosHVNi5eDQVybLQEBOjQ1_VStZoFX_c3JlUqXZQ?e=ZRMnzc
 Para la ejecución del proyecto necesitamos entrar en Unity y seleccionar la PantallaInicio que está ubicada en la carpeta assets/Scenes. Cuando este en la PantallaInicio darle al boton play en la parte superior de la pantalla.
 
 En su defecto, ejecutar la apk disponible.
